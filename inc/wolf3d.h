@@ -13,7 +13,7 @@
 #ifndef WOLF3D_H
 # define WOLF3D_H
 
-# include "mlx.h"
+# include "../minilibx/mlx.h"
 # include "../libft/inc/libft.h"
 # include <fcntl.h>
 # include <math.h>
